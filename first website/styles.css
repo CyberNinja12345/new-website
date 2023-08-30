@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.manu-continar{
+    background-color:black;
+    color: white;
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    width: px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.red{
+    display: flex;
+
+}
+.item{
+    margin: ;
+}
