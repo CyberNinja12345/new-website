@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
 }
-.manu-continar{
+.manu-containar{
     background-color:rgb(68, 63, 63);
     color: white;
     list-style: none;
@@ -99,4 +99,10 @@
 }
 .p2{
     margin:5px;
+}
+.service-containar{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: black;
 }
